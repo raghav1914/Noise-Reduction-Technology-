@@ -1,0 +1,20 @@
+Website work:
+
+Landing page ☑
+About us page ☑
+Contact page ☑
+Dashboard and connectivity☑
+Blogs ☑
+Booking ☑
+Python code running
+Conditions are working 
+
+
+
+
+
+Arduino ka hi bs bach rha h
+Sound detector frequency provide kr rha h
+
+Gps me error aa rha h or wifi ki library not available btq rha h
+When we integrate everything it gives error
